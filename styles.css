@@ -1,0 +1,30 @@
+.hide-element {
+    display: none;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 500px;
+    margin: 0 auto;
+}
+
+button {
+    font-size: 20px;
+    padding: 10px;
+    margin: 50 auto 0;
+    background-color: bisque;
+    border: 0px solid black;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+p {
+    font-size: 20px;
+    padding: 10px;
+    margin: 50 auto 0;
+    background-color: ivory;
+    border: 1px solid black;
+    border-radius: 5px;
+}
